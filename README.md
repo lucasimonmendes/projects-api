@@ -1,7 +1,7 @@
 # API de Projetos Pessoais
 
-![Linguagem mais utilizada](https://img.shields.io/github/languages/top/:nomedeusuario/:nomedorepositorio)
-![Último commit](https://img.shields.io/github/last-commit/:nomedeusuario/:nomedorepositorio)
+![Linguagem mais utilizada](https://img.shields.io/github/languages/top/lucasimonmendes/projects-api)
+![Último commit](https://img.shields.io/github/last-commit/lucasimonmendes/projects-api)
 ![README bem legal](https://img.shields.io/badge/readme-bem_legal-8A2BE2)
 
 ## Índice
