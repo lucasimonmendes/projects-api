@@ -1,5 +1,9 @@
 # API de Projetos Pessoais
 
+![Linguagem mais utilizada](https://img.shields.io/github/languages/top/:nomedeusuario/:nomedorepositorio)
+![Último commit](https://img.shields.io/github/last-commit/:nomedeusuario/:nomedorepositorio)
+![README bem legal](https://img.shields.io/badge/readme-bem_legal-8A2BE2)
+
 ## Índice
 
 - [**Introdução**](#introdução)
